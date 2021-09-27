@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @marjoleintamis
+- 👋 Hi, I’m @marjoleintamis, Willow on IRC :)
 - 👀 I’m interested in cats, language, home assistant shizzle, CoronaCheck, KAT.
 - 🌱 I’m currently learning how to solder.
 - 💞️ No collaborations so far.
