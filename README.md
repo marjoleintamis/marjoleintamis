@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marjoleintamis, Willow on IRC :)
 - 👀 I’m interested in cats, language, home assistant shizzle, CoronaCheck, KAT.
-- 🌱 I’m currently learning how to solder.
+- 🌱 I’m currently building a James Webb Space Telescope project.
 - 💞️ No collaborations so far.
 - 📫 I'm @willowpje on Twitter :)
 
